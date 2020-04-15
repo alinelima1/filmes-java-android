@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:8:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Aline\.android\build-cache\6b22e5e6deb751b89c848f2f1017b0283a7f1093\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\7e1abcdaec0360846199f50829998f56ac13f739\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\cb811a00a9dd96442cda448abe415e02c0264259\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\63419a62f5e1a85eff3317fdd2443d5434d41ad0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\892eaaccfe3abc55c3838a12b3d0789d2a873340\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\ffb8e6f2a829b1d718b0504c720355767e01059e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\9294ea94292a2ccc1c187aaf01403a8ac1ea311e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\20397c09f5b988d4f99a2948d71be0028f089489\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\ad369f703894113c2e7605e2dd51c277d19cc961\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\de4548ab1cd0c915c447d9e67e72837b8a583e71\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\2849d8dfd54adb295e6c2f7ae1a8485f249c5978\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\a7be4d6975ec97f06a8c8a6698672dbea7ece136\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:14:9-47
+activity#aula.filmes.View.FilmesActivity
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:label
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:16:85-107
+	android:configChanges
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:16:49-84
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:16:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:19:27-74
+activity#aula.filmes.View.ListaFilmesAssistirActivity
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:22:9-27:20
+	android:label
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:22:104-146
+	android:configChanges
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:22:68-103
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:22:19-67
+intent-filter#ListaFilmes+android.intent.category.DEFAULT
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:23:13-26:29
+action#ListaFilmes
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:24:17-54
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:24:25-51
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:25:27-73
+activity#aula.filmes.View.ListaFilmesAssistidosActivity
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:28:9-33:20
+	android:label
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:28:106-148
+	android:configChanges
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:28:70-105
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:28:19-69
+activity#aula.filmes.View.DetalhesFilmeActivity
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:34:9-39:20
+	android:label
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:34:98-132
+	android:configChanges
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:34:62-97
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:34:19-61
+intent-filter#DetalhesFilmes+android.intent.category.DEFAULT
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:35:13-38:29
+action#DetalhesFilmes
+ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:36:17-57
+	android:name
+		ADDED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml:36:25-54
+uses-sdk
+INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Aline\.android\build-cache\6b22e5e6deb751b89c848f2f1017b0283a7f1093\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\7e1abcdaec0360846199f50829998f56ac13f739\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\cb811a00a9dd96442cda448abe415e02c0264259\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\63419a62f5e1a85eff3317fdd2443d5434d41ad0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\892eaaccfe3abc55c3838a12b3d0789d2a873340\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\f87808f7cd36cbec8ef19a4174133c637710494a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\ffb8e6f2a829b1d718b0504c720355767e01059e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\9294ea94292a2ccc1c187aaf01403a8ac1ea311e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\20397c09f5b988d4f99a2948d71be0028f089489\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\ad369f703894113c2e7605e2dd51c277d19cc961\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\de4548ab1cd0c915c447d9e67e72837b8a583e71\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\2849d8dfd54adb295e6c2f7ae1a8485f249c5978\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\a7be4d6975ec97f06a8c8a6698672dbea7ece136\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\7e1abcdaec0360846199f50829998f56ac13f739\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aline\AndroidStudioProjects\Filmes\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\7e1abcdaec0360846199f50829998f56ac13f739\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\cb811a00a9dd96442cda448abe415e02c0264259\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\63419a62f5e1a85eff3317fdd2443d5434d41ad0\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\892eaaccfe3abc55c3838a12b3d0789d2a873340\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\f87808f7cd36cbec8ef19a4174133c637710494a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\ffb8e6f2a829b1d718b0504c720355767e01059e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\9294ea94292a2ccc1c187aaf01403a8ac1ea311e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\20397c09f5b988d4f99a2948d71be0028f089489\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\ad369f703894113c2e7605e2dd51c277d19cc961\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\de4548ab1cd0c915c447d9e67e72837b8a583e71\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\2849d8dfd54adb295e6c2f7ae1a8485f249c5978\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\a7be4d6975ec97f06a8c8a6698672dbea7ece136\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\7e1abcdaec0360846199f50829998f56ac13f739\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Aline\.android\build-cache\7e1abcdaec0360846199f50829998f56ac13f739\output\AndroidManifest.xml:26:9-47

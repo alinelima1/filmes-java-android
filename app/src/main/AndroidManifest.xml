@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="aula.filmes">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat">
+        <activity
+            android:name=".View.FilmesActivity" android:configChanges="orientation" android:label="Filmes">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".View.ListaFilmesAssistirActivity" android:configChanges="orientation" android:label="Lista de Filmes à Assistir">
+            <intent-filter>
+                <action android:name="ListaFilmes" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".View.ListaFilmesAssistidosActivity" android:configChanges="orientation" android:label="Lista de Filmes Assistidos">
+            <intent-filter>
+                <action android:name="ListaFilmes" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".View.DetalhesFilmeActivity" android:configChanges="orientation" android:label="Detalhes do Filmes">
+            <intent-filter>
+                <action android:name="DetalhesFilmes" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
